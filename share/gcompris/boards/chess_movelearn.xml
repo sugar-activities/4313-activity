@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="chess_movelearn"
+	 type="chess"
+	 section="/strategy/chess"
+	 mode="movelearn"
+	 icon="chess_movelearn.svg"
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>Learning chess</title>
+	 <description>Chess training. Catch the computer's pawns.</description>
+	 <prerequisite>Mouse-manipulation</prerequisite>
+	 <goal></goal>
+	 <manual></manual>
+	 <credit>The chess engine is from gnuchess.</credit>
+  </Board>
+</GCompris>

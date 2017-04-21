@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="play_rhythm"
+        type="python:play_rhythm"
+        section="/discovery/sound_group"
+        icon="play_rhythm.svg"
+        difficulty="3"
+        author="Beth Hadley (bethmhadley@gmail.com)"
+	mandatory_sound_file="piano_composition/bass_pitches/1/1.wav"
+        boarddir=""
+        demo="1">
+        <title>Play Rhythm</title>
+        <description>Learn to listen to, read, and play musical rhythms.</description>
+        <prerequisite>Simple understanding of musical rhythm and beat.</prerequisite>
+        <goal>Learn to beat rhythms precisely and accurately based on what you see and hear.</goal>
+        <manual xml:space="preserve">This is a relatively challenging game to master, so good luck.
+
+Listen to the rhythm played, and follow along with the music. If you would like to hear it again, click the play button. When you're ready to perform the identical rhythm, click the drum to the rhythm, then click the OK button. If you clicked correctly and in the right tempo, another rhythm is displayed. If not, you must try again.
+
+Even levels display a vertical playing line when you click the drum, which helps you see when to click to follow the rhythm. Click on the drum when the line is in the middle of the notes.
+
+Odd levels are harder, because there is no vertical playing line. The rhythm will not be played for you. You must read the rhythm, and click it back in tempo. Click the metronome to hear the quarter note tempo.
+
+The following keyboard bindings work in this game:
+- backspace: erase attempt
+- delete: erase attempt
+- enter/return: OK button
+- space bar: play
+</manual>
+
+        <credit></credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

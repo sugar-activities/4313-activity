@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="melody"
+	 type="python:melody"
+	 section="/discovery/sound_group"
+	 difficulty="2"
+	 icon="melody.svg"
+	 author="Jose JORGE (jjorge@free.fr)"
+	 mandatory_sound_file="melody/xylofon_son1.ogg"
+	 boarddir="melody"
+	 demo="1">
+	 <title>Melody</title>
+	 <description>Repeat a melody</description>
+	<prerequisite>Move and click the mouse</prerequisite>
+	<goal>Ear-training activity</goal>
+	<manual>Listen to the sound sequence played, and repeat it by clicking on the elements. You can listen again by clicking on the repeat button.</manual>
+  </Board>
+</GCompris>

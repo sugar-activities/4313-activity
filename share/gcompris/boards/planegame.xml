@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="planegame"
+	 type="planegame"
+	 section="/math/numeration"
+	 icon="helicogame.svg"
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)">
+	 <title>Numbers in Order</title>
+	 <description>Move the helicopter to catch the clouds in the correct order</description>
+	<goal>Numeration training</goal>
+	<prerequisite>Number</prerequisite>
+	<manual>Catch the numbers in increasing order, using the up, down, right and left arrows on the keyboard to move the helicopter.</manual>
+  </Board>
+  <Data directory=""/>
+</GCompris>

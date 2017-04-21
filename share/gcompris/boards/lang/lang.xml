@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:Root xmlns:c="http://gcompris.net/Lang" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gcompris.net/Lang Lang.xsd ">
+  <Chapter>
+    <name>Chapter 1</name>
+    <description></description>
+    <Lesson>
+      <name>Welcome</name>
+      <description></description>
+      <Triplet>
+	<description>Welcome</description>
+	<image>intro/welcome.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Hello</description>
+	<image>intro/hello.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Good morning</description>
+	<image>intro/good_morning.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Good afternoon</description>
+	<image>intro/good_afternoon.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Good evening</description>
+	<image>intro/good_evening.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Goodnight</description>
+	<image>intro/good_night.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>What's your name?</description>
+	<image>intro/what_is_your_name.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My name is Clara</description>
+	<image>intro/hello_clara.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Who are you?</description>
+	<image>intro/who_are_you.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My name is Clement</description>
+	<image>intro/hello_clement.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I am a boy</description>
+	<image>intro/a_boy.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I am a girl</description>
+	<image>intro/a_girl.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Grandma and Clara are girls</description>
+	<image>intro/clara_and_grandma.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Dad and Clement are boys</description>
+	<image>intro/clement_and_dad.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>How do you do</description>
+	<image>intro/how_do_you_do.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>How are you?</description>
+	<image>intro/is_he_sick.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I am sick</description>
+	<image>intro/he_is_sick.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clement is Fine</description>
+	<image>intro/i_am_fine.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>Nice to meet you</name>
+      <description></description>
+      <Triplet>
+	<description>How old are you</description>
+	<image>intro/how_old_are_you.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I am 17 years old</description>
+	<image>intro/birthday_clement.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>This is my sister Clara</description>
+	<image>intro/clara.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara is 13 years old</description>
+	<image>intro/birthday_clara.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Where do you live?</description>
+	<image>intro/Earth_Western_Hemisphere.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I live in France</description>
+	<image>intro/Eiffel_Tower_Paris.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Sabrina lives near the sea</description>
+	<image>intro/sabrina_sea_side.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Her uncle lives in Paris</description>
+	<image>intro/Paris-Grand-Palais.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>Days and Seasons</name>
+      <description></description>
+      <Triplet>
+	<description>On Monday, I go to school.</description>
+	<image>intro/school.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Tuesday, I study History.</description>
+	<image>intro/history.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Wednesday, I play football.</description>
+	<image>intro/football.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Thursday, I read and write.</description>
+	<image>intro/reading.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Friday, I learn Sciences.</description>
+	<image>intro/science.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Saturday, I go swimming.</description>
+	<image>intro/swimming.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Sunday, I relax!</description>
+	<image>intro/simon_boat.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In Summer it is hot</description>
+	<image>intro/beach.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In Autumn it rains</description>
+	<image>intro/rain.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In Winter it snows</description>
+	<image>intro/snow.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I like flowers in Spring</description>
+	<image>intro/flower.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Wednesday Clara practices scuba diving</description>
+	<image>intro/clara_diving.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Saturday Clement goes kayaking.</description>
+	<image>intro/clement_kayaking.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On Sunday Clement, Clara and Sabrina have a sunbath.</description>
+	<image>intro/clara_clement_sabrina_play.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>What's the day today?</description>
+	<image>intro/calendar_jan_15th.png</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>In the classroom</name>
+      <description></description>
+      <Triplet>
+	<description>a school bag</description>
+	<image>intro/school_bag.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a pencil case</description>
+	<image>intro/pencil_case.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a pen</description>
+	<image>intro/pen.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a pencil</description>
+	<image>intro/pencil.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a pencil sharpener</description>
+	<image>intro/pencil_sharpener.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a ruler</description>
+	<image>intro/ruler.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a stapler</description>
+	<image>intro/stapler.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>scissors</description>
+	<image>intro/scissors.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>two erasers</description>
+	<image>intro/eraser.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a stick of glue</description>
+	<image>intro/glue.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>the blackboard</description>
+	<image>intro/blackboard.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a book</description>
+	<image>intro/book.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>a notebook</description>
+	<image>intro/notebook.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>the playground</description>
+	<image>intro/playground.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>the teacher</description>
+	<image>intro/teacher.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>the pupils</description>
+	<image>intro/pupils.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Sit down</description>
+	<image>intro/sit_down.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Stand up</description>
+	<image>intro/stand_up.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Be quiet</description>
+	<image>intro/be_quiet.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Don't run</description>
+	<image>intro/don_t_run.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Repeat</description>
+	<image>intro/repeat.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Shut the door</description>
+	<image>intro/shut_door.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Open the window</description>
+	<image>intro/open_window.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Open your eyes</description>
+	<image>intro/open_eyes.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Take a red pencil</description>
+	<image>intro/red_pencil.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Let's play a game</description>
+	<image>intro/eva_catherine.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Sing a song</description>
+	<image>intro/sabrina_sings.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Time to go</description>
+	<image>intro/time_to_go.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>Months of the year</name>
+      <description></description>
+      <Triplet>
+	<description>In January, I go skiing.</description>
+	<image>intro/clara_ski.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In February, I eat pancakes.</description>
+	<image>intro/pancakes.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In March, it rains a lot!</description>
+	<image>intro/rain.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In April, it's Spring!</description>
+	<image>intro/spring.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In May, it is sunny!</description>
+	<image>intro/sunny.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In June, I am happy!</description>
+	<image>intro/christophe_fly.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In July, I go to the beach.</description>
+	<image>intro/beach2.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In August, I am on vacation!</description>
+	<image>intro/vacation.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In September, I go back to school.</description>
+	<image>intro/school.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In October, It is Autumn.</description>
+	<image>intro/automn.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In November, it is my birthday!</description>
+	<image>intro/birthday_clara.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In December, Merry Christmas!</description>
+	<image>intro/christmas_tree.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>When is your birthday?</description>
+	<image>intro/birthday_clement_when.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My birthday is in December.</description>
+	<image>intro/calendar_december.png</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>When was Clara born?</description>
+	<image>intro/clara_born_when.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara was born on January 15th.</description>
+	<image>intro/calendar_jan_15th.png</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Happy birthday!</description>
+	<image>intro/birthday.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+        <description>Which month are we?</description>
+        <image>intro/month_unknown.png</image>
+        <voice></voice>
+        <c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>Numbers and fruit</name>
+      <description></description>
+      <Triplet>
+	<description>One mango</description>
+	<image>numbers/1_mango.jpg</image>
+	<voice>alphabet/U0031.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Two pears</description>
+	<image>numbers/2_pears.jpg</image>
+	<voice>alphabet/U0032.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Three apples</description>
+	<image>numbers/3_apples.jpg</image>
+	<voice>alphabet/U0033.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Four bananas</description>
+	<image>numbers/4_bananas.jpg</image>
+	<voice>alphabet/U0034.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Five lemons</description>
+	<image>numbers/5_lemons.jpg</image>
+	<voice>alphabet/U0035.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Six oranges</description>
+	<image>numbers/6_oranges.jpg</image>
+	<voice>alphabet/U0036.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Seven strawberries</description>
+	<image>numbers/7_strawberries.jpg</image>
+	<voice>alphabet/U0037.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Eight guavas</description>
+	<image>numbers/8_guavas.jpg</image>
+	<voice>alphabet/U0038.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Nine apricots</description>
+	<image>numbers/9_apricots.jpg</image>
+	<voice>alphabet/U0039.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Ten litchis</description>
+	<image>numbers/10_litchis.jpg</image>
+	<voice>alphabet/10.ogg</voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>Hobbies</name>
+      <description></description>
+      <Triplet>
+	<description>Clara likes dancing.</description>
+	<image>intro/clara_dance.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara also loves skiing.</description>
+	<image>intro/clara_ski.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Dad prefers climbing.</description>
+	<image>intro/climbing_tree.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clement enjoys drawing.</description>
+	<image>intro/clement_is_drawing.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara, Clement and Sabrina like playing.</description>
+	<image>intro/clara_clement_sabrina_play.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I play the piano.</description>
+	<image>intro/djill_piano.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara plays the guitar.</description>
+	<image>intro/clara_guitar.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>A man is fishing.</description>
+	<image>intro/fishing.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>A girl is riding a small horse.</description>
+	<image>intro/horse_riding.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Mary and Sarah play basketball.</description>
+	<image>intro/basketball.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I like reading</description>
+	<image>intro/book.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I don't like skiing.</description>
+	<image>intro/ski_fall.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>After skiing, Clement is drinking.</description>
+	<image>intro/clement_drinks.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara is on the beach.</description>
+	<image>intro/clara_sea_side.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>It is cold at the camp site.</description>
+	<image>intro/fire.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Clara plays the clown.</description>
+	<image>intro/clara_clown.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Simon rides his bicycle.</description>
+	<image>intro/simon_bicycle.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>My family</name>
+      <description></description>
+      <Triplet>
+	<description>My father is working on the computer.</description>
+	<image>intro/dad_programs.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Dad</description>
+	<image>intro/dad.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Daddy does the ironing</description>
+	<image>intro/dad_iron.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My mother likes cooking.</description>
+	<image>intro/mum_cooking.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Grandpa cooks like a chief.</description>
+	<image>intro/grandpa_cooking.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Mum is by the sea.</description>
+	<image>intro/mum.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My sister plays the guitar.</description>
+	<image>intro/clara_guitar.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My sister likes dancing.</description>
+	<image>intro/clara_dance.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My grandmother likes sewing.</description>
+	<image>intro/grandma_sewing.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>Grandma also likes gardening.</description>
+	<image>intro/grandma_gardening.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My grandfather likes reading the newspaper.</description>
+	<image>intro/grandpa_newspaper.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My aunt likes basketball.</description>
+	<image>intro/basketball.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My uncle likes singing.</description>
+	<image>intro/sabrina_sings.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My cousins like playing the videogames with me!</description>
+	<image>intro/cousins_videogames.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>My cat is on the chair.</description>
+	<image>intro/cat_on_chair.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+    <Lesson>
+      <name>My daily routine</name>
+      <description></description>
+      <Triplet>
+	<description>I wake up at seven o'clock.</description>
+	<image>intro/wake_up_7am.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I wash my face.</description>
+	<image>intro/wash_face.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I get dressed.</description>
+	<image>intro/get_dressed.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I have breakfast at half past seven.</description>
+	<image>intro/clara_eats.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I wash my teeth.</description>
+	<image>intro/clara_teeth_brush.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In the morning, I go to school.</description>
+	<image>intro/school.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I have lunch at school.</description>
+	<image>intro/cantine.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In the afternoon, I draw and paint.</description>
+	<image>intro/clement_is_drawing.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>At five o'clock, I come back home.</description>
+	<image>intro/student_walk.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>I do my homework at six o'clock.</description>
+	<image>intro/clara_homework.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In the evening, I have dinner.</description>
+	<image>intro/family_dinner.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>In the evening, I sleep in my bed.</description>
+	<image>intro/good_night.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+      <Triplet>
+	<description>On sunday, I call mummy.</description>
+	<image>intro/simon_speaking.jpg</image>
+	<voice></voice>
+	<c:type></c:type>
+      </Triplet>
+    </Lesson>
+  </Chapter>
+</c:Root>

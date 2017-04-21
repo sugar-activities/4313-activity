@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="billard"
+	 type="billard"
+	 section="/fun"
+	 icon="foot.svg"
+	 difficulty="1"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>The football game</title>
+ 	 <description>Kick the ball into the goal</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<manual>Point the mouse and click on the ball, to set the speed and direction of the ball. The closer you click to the center, the slower the ball moves.</manual>
+	<goal>Kick the ball into the black hole on the right</goal>
+	<credit></credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

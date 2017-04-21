@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="details"
+	 type="shapegame"
+	 section="/discovery/miscelaneous"
+	 icon="details.svg"
+	 difficulty="2"
+	 author="Marc Levivier (malev@free.fr)"
+	 boarddir="details"
+	 demo="1">
+	 <title>Find the details</title>
+	 <description>Drag and Drop the shapes on their respective targets</description>
+	 <prerequisite>Good mouse-control</prerequisite>
+	<credit>The images are from Wikimedia Commons.</credit>
+	<manual>Complete the puzzle by dragging each piece from the set of pieces on the left, to the matching space in the puzzle.</manual>
+  </Board>
+</GCompris>

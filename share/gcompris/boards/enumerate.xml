@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="enumerate"
+	 type="enumerate"
+	 section="/math/numeration"
+	 icon="enumerate.svg"
+	 difficulty="1"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+         >
+	 <title>Count the items</title>
+	 <description>Place the items in the best way to count them</description>
+	<goal>Numeration training</goal>
+	<prerequisite>Basic enumeration</prerequisite>
+	<manual>First, properly organize the items so that you can count them. Then, select the item you want to answer in the bottom right area. Enter the answer with the keyboard and press the OK button or the 'Enter' key.</manual>
+  </Board>
+  <Data directory=""/>
+</GCompris>

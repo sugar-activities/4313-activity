@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="experimental"
+	 type="menu"
+	 section="/"
+	 icon="warning.svg"
+         difficulty="0"
+	 author="">
+	 <title>Go to Experimental activities</title>
+	 <description>Run gcompris --experimental to see this menu.</description>
+  </Board>
+</GCompris>

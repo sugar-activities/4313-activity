@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="mouse"
+	 type="menu"
+	 section="/computer"
+	 icon="mouse.svg"
+	 author="">
+	 <title>Mouse-manipulation activities.</title>
+	 <description>Various mouse-based activities (clicking, moving)</description>
+  </Board>
+</GCompris>

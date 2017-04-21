@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="watercycle"
+	 type="python:watercycle"
+	 section="/experience"
+	 difficulty="3"
+	 icon="watercycle.svg"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="watercycle"
+	 >
+	 <title>Learn about the water cycle</title>
+	 <description>Tux has come back from a long fishing party on his boat. Bring the water system back up so he can take a shower.</description>
+	<prerequisite></prerequisite>
+	<goal>Learn the water cycle</goal>
+	<manual>Click on different active elements : sun, cloud, water pump station, and water cleanup station, in order to reactivate the entire water system. When the system is back up and Tux is in the shower, push the shower button for him.</manual>
+	<credit>Drawing by Stephane Cabaraux.</credit>
+  </Board>
+</GCompris>

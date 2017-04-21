@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<missing_letter>
+  <Board>
+  	<pixmapfile>missing_letter/avion.png</pixmapfile>
+	<data>plane/_lane/p/g/d</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/chien.png</pixmapfile>
+	<data>dog/_og/d/p/q</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/fish.png</pixmapfile>
+	<data>fish/f_sh/i/u/l</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/car.png</pixmapfile>
+	<data>car/c_r/a/k/o</data>
+  </Board>
+</missing_letter>
+

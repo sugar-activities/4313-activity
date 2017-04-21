@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="fifteen"
+	 type="fifteen"
+	 section="/puzzle"
+	 icon="fifteen.svg"
+	 difficulty="5"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>The fifteen game</title>
+	 <description>Move each item to make an increasing series: from the smallest to the largest</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<goal></goal>
+	 <manual>Click on any item that has a free block beside it, and it will be swapped with the empty block.</manual>
+	 <credit>Original code taken from the libgnomecanvas demo</credit>
+  </Board>
+</GCompris>

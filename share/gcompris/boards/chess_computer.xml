@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="chess_computer"
+	 type="chess"
+	 section="/strategy/chess"
+	 mode="computer"
+	 icon="chess_computer.svg"
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>Learning chess</title>
+	 <description>Play chess against the computer in a learning mode</description>
+	 <prerequisite>Mouse-manipulation</prerequisite>
+	 <goal></goal>
+	 <manual></manual>
+	 <credit>The chess engine is from gnuchess.</credit>
+  </Board>
+</GCompris>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<missing_letter>
+  <Board>
+  	<pixmapfile>missing_letter/avion.png</pixmapfile>
+	<data>plane/p_ane/l/j/i/t</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/chien.png</pixmapfile>
+	<data>dog/d_g/o/g/a/u</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/fish.png</pixmapfile>
+	<data>fish/_ish/f/h/l/j</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/car.png</pixmapfile>
+	<data>car/_ar/c/k/b/u</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/cartable.png</pixmapfile>
+	<data>satchel/_atchel/s/c/l/z</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/banana.png</pixmapfile>
+	<data>banana/_anana/b/p/d/m</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/maison.png</pixmapfile>
+	<data>house/h_use/o/f/u/i</data>
+  </Board>
+  <Board>
+  	<pixmapfile>missing_letter/pomme.png</pixmapfile>
+	<data>apple/appl_/e/h/a/i/o/u</data>
+  </Board>
+</missing_letter>
+

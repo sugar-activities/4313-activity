@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="hanoi"
+	 type="hanoi"
+	 section="/puzzle"
+	 icon="hanoi.svg"
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir=""
+	 >
+	 <title>Simplified Tower of Hanoi</title>
+	 <description>Reproduce the given tower</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<goal>Reproduce the tower on the right in the empty space on the left</goal>
+	<manual>Drag and Drop one top piece at a time, from one peg to another, to reproduce the tower on the right in the empty space on the left.</manual>
+	 <credit>Concept taken from EPI games.</credit>
+  </Board>
+</GCompris>

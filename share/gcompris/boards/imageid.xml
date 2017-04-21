@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="imageid"
+	 type="imageid"
+	 section="/reading"
+	 icon="imageid.svg"
+	 difficulty="2"
+	 author="Pascal Georges (pascal.georges1@free.fr)"
+	 boarddir="imageid"
+	 demo="1">
+	 <title>Reading practice</title>
+	 <description>Practice reading by finding the word matching an image</description>
+	 <prerequisite>Reading</prerequisite>
+	<manual>Click on the word corresponding to the printed image.</manual>
+  </Board>
+</GCompris>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="traffic"
+	 type="traffic"
+	 section="/puzzle"
+	 mode="image"
+	 difficulty="2"
+	 icon="traffic.svg"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>A sliding-block puzzle game</title>
+ 	 <description>Remove the red car from the parking lot through the gate on the right</description>
+	<prerequisite></prerequisite>
+	<goal>Remove the red car from the parking lot through the gate on the right</goal>
+	<manual>Each car can only move either horizontally or vertically. You must make some room in order to let the red car move through the gate on the right.</manual>
+  </Board>
+  <Data directory=""/>
+</GCompris>

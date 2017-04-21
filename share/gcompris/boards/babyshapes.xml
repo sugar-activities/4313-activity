@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="babyshapes"
+	 type="shapegame"
+	 section="/discovery/miscelaneous"
+	 icon="babyshapes.svg"
+	 difficulty="1"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net) / Andre Connes (andre.connes@toulouse.iufm.fr)"
+	 boarddir="babyshapes">
+	 <title>Complete the puzzle</title>
+	 <description>Drag and Drop the shapes on their respective targets</description>
+	 <prerequisite>Good mouse-control</prerequisite>
+	<credit>The dog is provided by Andre Connes and released under the GPL</credit>
+	<manual>Complete the puzzle by dragging each piece from the set of pieces on the left, to the matching space in the puzzle.</manual>
+  </Board>
+</GCompris>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="pythontemplate"
+        type="python:pythontemplate"
+        section="/experimental"
+        icon="python.svg"
+        difficulty="1"
+        author="Bruno Coudoin"
+        boarddir=""
+        >
+        <title>Python Template</title>
+        <description>An empty Python activity to use as a starting point</description>
+        <prerequisite>Advanced Python Programmer :)</prerequisite>
+        <goal>Add a language-binding to GCompris.</goal>
+        <manual></manual>
+        <credit>Thanks to Guido van Rossum and the Python team for this powerful language!</credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

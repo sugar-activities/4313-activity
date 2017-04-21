@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="readingv"
+	 type="reading"
+	 section="/reading"
+	 mode="vertical"
+	 icon="reading.svg"
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="fishes"
+	 >
+	 <title>Vertical-reading practice</title>
+ 	 <description>Read a vertical list of words and work out if a given word is in it</description>
+	<goal>Read training in a limited time</goal>
+	<prerequisite>Reading</prerequisite>
+	<manual>A word is shown at the top right of the board. A list of words will appear and disappear on the left. Does the given word belong to the list?</manual>
+  </Board>
+  <Data directory=""/>
+</GCompris>

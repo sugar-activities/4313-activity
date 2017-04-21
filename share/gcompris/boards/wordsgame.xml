@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board 
+	 name="wordsgame"
+	 type="wordsgame" 
+	 section="/computer/keyboard"
+	 icon="wordsgame.svg" 
+	 difficulty="2"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>Falling Words</title>
+	 <description>Type the falling words before they reach the ground</description>
+	<prerequisite>Keyboard manipulation</prerequisite>
+	<goal>Keyboard training</goal>
+	<manual>Type the complete word as it falls, before it reaches the ground</manual> 
+  </Board>
+</GCompris>

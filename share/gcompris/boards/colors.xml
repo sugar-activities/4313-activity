@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="colors"
+	 type="python:findit"
+	 section="/discovery/colors_group"
+	 mode="*"
+	 difficulty="1"
+	 icon="colors.svg"
+	 author="Pascal Georges (pascal.georges1@free.fr)"
+	 boarddir="colors"
+	 demo="1">
+	 <title>Colors</title>
+	 <description>Click on the right color</description>
+	 <prerequisite>Can move the mouse.</prerequisite>
+	 <goal>This board teaches you to recognize different colors. When you hear the name of the color, click on the duck wearing it.</goal>
+	 <manual>Listen to the color and click on the matching duck.</manual>
+  </Board>
+</GCompris>

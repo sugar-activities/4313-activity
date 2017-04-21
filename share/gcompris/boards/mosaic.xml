@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="mosaic"
+        type="python:mosaic"
+        section="/discovery/colors_group"
+        icon="mosaic.svg"
+        difficulty="1"
+        author="Clement Coudoin (clement.coudoin@free.fr)"
+        boarddir=""
+        demo="1">
+        <title>Rebuild the mosaic</title>
+        <description>Rebuild the mosaic</description>
+        <prerequisite></prerequisite>
+        <goal></goal>
+        <manual></manual>
+        <credit></credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

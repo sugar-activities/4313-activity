@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board 
+	 name="smallnumbers2"
+	 type="smallnumbers" 
+	 section="/math/numeration"
+	 mode="2_DICES"
+	 icon="smallnumbers2.svg" 
+	 difficulty="1"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="">
+	 <title>Numbers with pairs of dice</title>
+	 <description>Count the number of dots on dice before they reach the ground</description>
+	<prerequisite>Counting skills</prerequisite>
+	<goal>In a limited time, count the number of dots</goal>
+	<manual>With the keyboard, type the number of dots you see on the falling dice.</manual>
+  </Board>
+</GCompris>

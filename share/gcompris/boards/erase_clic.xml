@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="erase_clic"
+	 type="erase"
+	 section="/computer/mouse"
+	 icon="erase_clic.svg"
+	 difficulty="1"
+	 mode="clic"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir=""
+	 >
+	 <title>Click the mouse</title>
+	 <description>Click the mouse to erase the area and discover the background</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<goal>Motor-coordination</goal>
+	 <manual>Click the mouse on rectangles until all the blocks disappear.</manual>
+	 <credit>Animal pictures come from the Animal Photography Page of Ralf Schmode (http://schmode.net/). Ralf has kindly permitted Gcompris to include his pictures. Thanks a lot, Ralf.</credit>
+  </Board>
+</GCompris>

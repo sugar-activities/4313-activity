@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="penalty"
+        type="python:penalty"
+        section="/computer/mouse"
+        icon="penalty.svg"
+        difficulty="2"
+        author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+        boarddir="">
+        <title>Penalty kick</title>
+        <description>Double click the mouse on the ball to score a goal.</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<goal>Motor-coordination</goal>
+	 <manual>Double click the mouse on the ball to kick it. You can double click the left right or middle mouse button. If you lose, Tux catches the ball. You must click on it to bring it back to its former position</manual>
+        <credit></credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

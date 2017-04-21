@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="algebramenu"
+	 type="menu"
+	 section="/math"
+	 icon="algebramenu.svg"
+	 author="">
+	 <title>Go to calculation activities</title>
+	 <description>Various calculation activities.</description>
+  </Board>
+</GCompris>

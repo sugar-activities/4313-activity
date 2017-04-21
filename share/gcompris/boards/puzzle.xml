@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="puzzle"
+	 type="menu"
+	 section="/"
+	 icon="puzzles.svg"
+	 author="">
+	 <title>Puzzles</title>
+	 <description>Various puzzles.</description>
+  </Board>
+</GCompris>

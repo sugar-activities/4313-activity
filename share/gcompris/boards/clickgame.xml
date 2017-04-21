@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="clickgame"
+	 type="clickgame"
+	 section="/computer/mouse"
+	 icon="clickgame.svg"
+	 difficulty="1"
+	 author="Bruno Coudoin (bruno.coudoin@gcompris.net)"
+	 boarddir="fishes"
+         >
+	 <title>Click On Me</title>
+ 	 <description>Left-Click with the mouse on all the swimming fish before they leave the fishtank</description>
+	<prerequisite>Mouse-manipulation</prerequisite>
+	<goal>Motor coordination: moving and clicking the mouse.</goal>
+	<manual>Use the left mouse button to click on the moving fish. A level 5 and after, a double click is mandatory.</manual>
+	<credit>Fish are taken from the Unix utility xfishtank. All image credits belong to Guillaume Rousse.</credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

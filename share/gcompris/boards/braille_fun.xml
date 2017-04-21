@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="braille_fun"
+        type="python:braille_fun"
+        section="/discovery/braille"
+        icon="braille_fun.svg"
+        difficulty="6"
+        author="Srishti Sethi (srishakatux@gmail.com)"
+        boarddir=""
+        demo="1">
+        <title>Braille Fun</title>
+        <description>Braille the falling letters</description>
+        <prerequisite>Braille Alphabet Codes</prerequisite>
+        <goal></goal>
+        <manual>Enter the braille code in the tile for the corresponding falling letters. Check the braille chart by clicking on the toggle button for help.</manual>
+        <credit></credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

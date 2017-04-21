@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="discovery"
+	 type="menu"
+	 section="/"
+	 icon="discovery.svg"
+	 author="">
+	 <title>Go to discovery activities</title>
+	 <description>Colors, sounds, memory...</description>
+  </Board>
+</GCompris>
